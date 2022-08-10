@@ -5,7 +5,14 @@ this is written in branch branch1
 added seond line for merging demo
 
 
+
+
+
 helloooooooooooooooooooooooooooo
 
+<<<<<<< HEAD
 
 this is line added in master branch
+=======
+some more data added in file for testing
+>>>>>>> branch1
